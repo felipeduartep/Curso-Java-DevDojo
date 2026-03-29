@@ -13,7 +13,7 @@ public class Aula01OlaDevDojo {
             System.out.println("PAR!");
         else
             System.out.println("IMPAR!");
-
+// apenas um comentario para testar o git
         sc.close();
     }
 }
