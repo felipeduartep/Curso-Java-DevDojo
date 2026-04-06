@@ -24,7 +24,7 @@ public class Aula04Operadores {
         System.out.println(isDezIgualVinte);
         System.out.println(isDezDiferenteDeVinte);
 
-<<<<<<< HEAD
+
         // += -= *= /= %=
         double bonus = 1500;
         bonus += 200;
@@ -39,8 +39,7 @@ public class Aula04Operadores {
         contador--;
         contador++;
         System.out.println(++contador);
-=======
->>>>>>> 6dbd8322cbe0ab16ec57c4c9a6bd3158758e05d2
+
 
     }
 }
