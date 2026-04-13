@@ -1,6 +1,6 @@
 package curso.devdojo.maratonajava.introducao;
 
-public class Aula05Exercicio {
+public class Aula05Exercicio01 {
     public static void main(String[] args) {
         double salario = 35000;
         double tax;
